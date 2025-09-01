@@ -218,7 +218,7 @@ function App() {
               </div>
               <div className="text-gray-700 leading-relaxed text-sm md:text-base">
                 <TypewriterText 
-                  text="Nossos 11 meses juntos têm sido uma jornada incrível de amor, cumplicidade e descobertas. Cada dia ao seu lado é uma nova aventura, e cada momento compartilhado se torna uma memória preciosa que guardo no coração. 💕" 
+                  text="Eu ainda não terminei de escrever o que quero aqui, volte em um mês (sim, isso vai virar o site de um ano kakakakak" 
                   speed={60}
                 />
               </div>
