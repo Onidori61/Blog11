@@ -213,7 +213,7 @@ function App() {
             <div className="kawaii-card">
               <div className="flex items-center gap-2 mb-4 flex-wrap justify-center">
                 <span className="text-xl md:text-2xl">🌸</span>
-                <h2 className="text-lg md:text-xl font-bold text-pink-700 text-center">Bem-vinda ao nosso cantinho kawaii</h2>
+                <h2 className="text-lg md:text-xl font-bold text-pink-700 text-center">Bem-vinda ao nosso cantinho</h2>
                 <span className="text-xl md:text-2xl">🌸</span>
               </div>
               <div className="text-gray-700 leading-relaxed text-sm md:text-base">
@@ -226,17 +226,17 @@ function App() {
             
             <div className="kawaii-card">
               <h3 className="text-base md:text-lg font-bold text-pink-700 mb-3">11 Meses de Amor</h3>
-              <p className="text-gray-600 mb-4 text-sm md:text-base">Uma história de amor que continua crescendo</p>
+              <p className="text-gray-600 mb-4 text-sm md:text-base">Ainda vou escrever algo kakaka</p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 md:gap-4">
                 <div className="text-center p-3 bg-pink-50 rounded-lg border-2 border-pink-200">
                   <div className="text-xl md:text-2xl mb-1">💝</div>
-                  <div className="text-sm font-medium text-pink-700">Primeiro Beijo</div>
-                  <div className="text-xs text-pink-500">Nosso primeiro beijo 💕</div>
+                  <div className="text-sm font-medium text-pink-700">Em construção</div>
+                  <div className="text-xs text-pink-500">Em construção</div>
                 </div>
                 <div className="text-center p-3 bg-pink-50 rounded-lg border-2 border-pink-200">
                   <div className="text-xl md:text-2xl mb-1">🌟</div>
-                  <div className="text-sm font-medium text-pink-700">Jantar romântico</div>
-                  <div className="text-xs text-pink-500">Uma noite especial 🍽️</div>
+                  <div className="text-sm font-medium text-pink-700">Em construção</div>
+                  <div className="text-xs text-pink-500">Em construção</div>
                 </div>
               </div>
             </div>
@@ -252,22 +252,22 @@ function App() {
                 <div className="moment-card">
                   <div className="text-2xl md:text-3xl mb-2">💝</div>
                   <h3 className="font-bold text-pink-700 text-sm md:text-base">Primeiro Encontro</h3>
-                  <p className="text-xs md:text-sm text-gray-600">O início de tudo... aquele nervosismo gostoso e a certeza de que algo especial estava começando.</p>
+                  <p className="text-xs md:text-sm text-gray-600">Em construção.</p>
                 </div>
                 <div className="moment-card">
                   <div className="text-2xl md:text-3xl mb-2">🌟</div>
                   <h3 className="font-bold text-pink-700 text-sm md:text-base">Primeira Viagem</h3>
-                  <p className="text-xs md:text-sm text-gray-600">Descobrindo novos lugares juntos e criando memórias inesquecíveis.</p>
+                  <p className="text-xs md:text-sm text-gray-600">Em construção.</p>
                 </div>
                 <div className="moment-card">
                   <div className="text-2xl md:text-3xl mb-2">💕</div>
                   <h3 className="font-bold text-pink-700 text-sm md:text-base">Primeiro "Eu te amo"</h3>
-                  <p className="text-xs md:text-sm text-gray-600">Aquele momento mágico quando as palavras saíram do coração.</p>
+                  <p className="text-xs md:text-sm text-gray-600">Em construção.</p>
                 </div>
                 <div className="moment-card">
                   <div className="text-2xl md:text-3xl mb-2">🎂</div>
                   <h3 className="font-bold text-pink-700 text-sm md:text-base">Aniversários Juntos</h3>
-                  <p className="text-xs md:text-sm text-gray-600">Celebrando a vida e o amor com surpresas e carinho.</p>
+                  <p className="text-xs md:text-sm text-gray-600">Em construção.</p>
                 </div>
               </div>
             </div>
@@ -284,28 +284,28 @@ function App() {
                   <div className="timeline-marker">1</div>
                   <div>
                     <h3 className="font-bold text-pink-700 text-sm md:text-base">Mês 1-2: Descobrindo um ao outro</h3>
-                    <p className="text-xs md:text-sm text-gray-600">Primeiros encontros, conversas até tarde e a descoberta de afinidades incríveis.</p>
+                    <p className="text-xs md:text-sm text-gray-600">Primeiros encontros, conversas até tarde e eu já estava querendo me casar kakaka.</p>
                   </div>
                 </div>
                 <div className="timeline-item">
                   <div className="timeline-marker">3</div>
                   <div>
                     <h3 className="font-bold text-pink-700 text-sm md:text-base">Mês 3-5: Construindo nossa conexão</h3>
-                    <p className="text-xs md:text-sm text-gray-600">Momentos especiais, primeiras viagens e a certeza de que éramos feitos um para o outro.</p>
+                    <p className="text-xs md:text-sm text-gray-600">a gente já foi criando confiança um no outro.</p>
                   </div>
                 </div>
                 <div className="timeline-item">
                   <div className="timeline-marker">6</div>
                   <div>
                     <h3 className="font-bold text-pink-700 text-sm md:text-base">Mês 6-8: Aprofundando o amor</h3>
-                    <p className="text-xs md:text-sm text-gray-600">Conhecendo as famílias, compartilhando sonhos e construindo planos juntos.</p>
+                    <p className="text-xs md:text-sm text-gray-600">A gente começou a ter mais personalidade no nosso namoro, nem parece que demorou tanto assim para a gente ser idiota juntos</p>
                   </div>
                 </div>
                 <div className="timeline-item">
                   <div className="timeline-marker">11</div>
                   <div>
                     <h3 className="font-bold text-pink-700 text-sm md:text-base">Mês 9-11: Amor cada vez mais forte</h3>
-                    <p className="text-xs md:text-sm text-gray-600">Superando desafios juntos e celebrando cada conquista como um time.</p>
+                    <p className="text-xs md:text-sm text-gray-600">E aqui estamos, é até estranho, eu não esperava ter alguém que eu sou tão apaixonado ao ponto de que se precisasse, eu me sacrificaria.</p>
                   </div>
                 </div>
               </div>
@@ -322,22 +322,19 @@ function App() {
                 <div className="bg-pink-50 p-3 md:p-4 rounded-lg border-2 border-pink-200">
                   <h3 className="font-bold text-pink-700 mb-2 text-sm md:text-base">Nossa História</h3>
                   <p className="text-gray-600 text-xs md:text-sm">
-                    Começamos como amigos, mas o destino tinha outros planos. O que era uma amizade especial 
-                    se transformou no amor mais puro e verdadeiro que já experimentamos.
+                    Em construção
                   </p>
                 </div>
                 <div className="bg-pink-50 p-3 md:p-4 rounded-lg border-2 border-pink-200">
-                  <h3 className="font-bold text-pink-700 mb-2 text-sm md:text-base">O que nos une</h3>
+                  <h3 className="font-bold text-pink-700 mb-2 text-sm md:text-base">Em construção</h3>
                   <p className="text-gray-600 text-xs md:text-sm">
-                    Compartilhamos os mesmos valores, sonhos similares e uma conexão que vai além das palavras. 
-                    Juntos somos mais fortes, mais felizes e mais completos.
+                    Em construção
                   </p>
                 </div>
                 <div className="bg-pink-50 p-3 md:p-4 rounded-lg border-2 border-pink-200">
-                  <h3 className="font-bold text-pink-700 mb-2 text-sm md:text-base">Nossos Sonhos</h3>
+                  <h3 className="font-bold text-pink-700 mb-2 text-sm md:text-base">Em construção</h3>
                   <p className="text-gray-600 text-xs md:text-sm">
-                    Sonhamos em construir uma vida juntos, cheia de aventuras, risadas, cumplicidade e muito amor. 
-                    Cada dia é um passo em direção ao nosso futuro.
+                    Em construção
                   </p>
                 </div>
               </div>
