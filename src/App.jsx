@@ -364,7 +364,7 @@ function App() {
 
         {/* Header mobile */}
         <div className="bg-pink-200 border-b-4 border-pink-300 p-4 text-center">
-          <h1 className="text-lg font-bold text-pink-800">💕 Nosso Blog</h1>
+          <img src="/nosso-canto-logo.png" alt="Nosso Canto" className="w-24 mx-auto" />
         </div>
 
         {/* Navegação mobile */}
@@ -437,9 +437,9 @@ function App() {
       {/* Layout de 3 colunas */}
       <div className="flex min-h-screen">
         {/* Sidebar Esquerda */}
-        <div className="w-48 bg-pink-200 border-r-4 border-pink-300 p-4 space-y-3">
+        <div className="w-48 bg-pink-200 p-4 space-y-3 relative">
           <div className="text-center mb-6">
-            <h1 className="text-lg font-bold text-pink-800">💕 Nosso Blog</h1>
+            <img src="/nosso-canto-logo.png" alt="Nosso Canto" className="w-32 mx-auto mb-2" />
           </div>
           
           <button
